@@ -1,4 +1,4 @@
-#Untuk menjalankan code, berada di repository dengan nama harrypotter.ipynb#
+## Untuk menjalankan code, berada di repository dengan nama harrypotter.ipynb ##
 
 ``` python
 import os
