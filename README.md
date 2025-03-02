@@ -1,4 +1,4 @@
-## Untuk menjalankan code, berada di repository dengan nama harrypotter.ipynb ##
+## Untuk melihat hasil analisis secara lengkap berada pada harrypotter.ipynb ##
 
 ``` python
 import os
