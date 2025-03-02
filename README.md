@@ -1,5 +1,3 @@
-
-::: {.cell .code}
 ``` python
 import os
 import json
@@ -24,11 +22,6 @@ txt_files = [f for f in os.listdir(folder_path) if f.endswith(".txt")]
 all_books = {}
 ```
 
-::: {.output .stream .stderr}
-    [nltk_data] Downloading package stopwords to
-    [nltk_data]     C:\Users\an466\AppData\Roaming\nltk_data...
-    [nltk_data]   Package stopwords is already up-to-date!
-]
 ``` python
 # 2️⃣ Fungsi untuk membersihkan teks
 def clean_text(text):
