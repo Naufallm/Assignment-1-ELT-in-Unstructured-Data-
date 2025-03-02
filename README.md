@@ -1,3 +1,5 @@
+**Untuk menjalankan code, berada di repository dengan nama harrypotter.ipynb**
+
 ``` python
 import os
 import json
